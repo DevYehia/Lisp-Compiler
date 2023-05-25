@@ -1,0 +1,10 @@
+(setq 100)
+; set value of a to 100
+(dotimes (n 11)
+   (write  n) (write (* n n)) (write (* n n n)))
+(+ 2 3 "sd")
+(when  ( >= a  )
+(write  "the value is greater or equal to 20"))
+(read  b)
+(Incf  b 10)
+(Write  b)
